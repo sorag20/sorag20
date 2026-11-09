@@ -1,9 +1,5 @@
-### Hi, I'm sorag20
 
-Web エンジニアです。Laravel を用いた暗号資産向け会計ソフトの開発・保守に従事しています。  
-個人開発では Go と Kubernetes で動画配信基盤を構築し、AWS（EKS）へのデプロイと CI/CD まで手がけています。
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sorag20.github.io-0f766e?style=for-the-badge)](https://sorag20.github.io/)
+Web エンジニアです。ポートフォリオは[こちら](https://sorag20.github.io/)
 
 #### Skills
 
