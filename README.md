@@ -1,5 +1,5 @@
 
-Web エンジニアです。ポートフォリオは[こちら](https://sorag20.github.io/)
+Web エンジニアです。ポートフォリオは[こちら](https://sorag20.github.io/)をご覧ください。
 
 #### Skills
 
