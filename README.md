@@ -7,10 +7,8 @@ Web エンジニアです。Laravel を用いた暗号資産向け会計ソフ�
 
 #### Skills
 
-| | |
-|---|---|
-| **実務** | PHP / Laravel / JavaScript / Vue.js / HTML・CSS / MySQL / Redis / Docker / AWS (EC2 / ECS / S3) / GitHub Actions |
-| **個人開発** | Go / TypeScript / React / PostgreSQL / Kubernetes / AWS (EKS) / FFmpeg |
+- **実務**：PHP / Laravel / JavaScript / Vue.js / HTML・CSS / MySQL / Redis / Docker / AWS (EC2 / ECS / S3) / GitHub Actions
+- **個人開発**：Go / TypeScript / React / PostgreSQL / Kubernetes / AWS (EKS) / FFmpeg
 
 #### Projects
 
